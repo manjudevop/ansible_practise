@@ -1,0 +1,20 @@
+---
+students:
+- name: xyz
+  phno: 8888888
+  address: 
+    - pincode: 553001
+    - state: TG
+
+- name: xyy
+  phno: 8888888
+  address: 
+    - pincode: 554001
+    - state: TG 
+      
+
+- name: xdn
+  phno: 8888888
+  address: 
+    - pincode: 556001
+    - state: TG
